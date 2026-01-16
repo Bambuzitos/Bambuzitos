@@ -11,7 +11,7 @@
 
 Sou um Desenvolvedor focado em **Python** e **Backend**, com uma bagagem "Maker" que vem da minha base em **Engenharia de Computação**. Adoro entender como as coisas funcionam, seja soldando uma placa, modelando em 3D ou criando scripts para automatizar tarefas repetitivas.
 
-Atualmente, trabalho otimizando ecossistemas de E-commerce, unindo suporte técnico com desenvolvimento de soluções de integração (ERP/API). Meu objetivo é criar tecnologias que resolvam problemas reais.
+Atualmente, atuo na operação de ecossistemas de E-commerce, unindo suporte técnico com o desenvolvimento de soluções de integração (ERP/API) e automação de processos.
 
 * 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (Unisanta) + Base em Engenharia.
 * 🔭 **Foco Atual:** Python Avançado, Automação de Processos e IA Generativa.
@@ -45,8 +45,8 @@ Atualmente, trabalho otimizando ecossistemas de E-commerce, unindo suporte técn
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bambuzitos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bambuzitos&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bambuzitos&show_icons=true&theme=dracula" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bambuzitos&layout=compact&theme=dracula" height="180em"/>
 </div>
 
 ---
