@@ -42,15 +42,6 @@ Atualmente, atuo na operação de ecossistemas de E-commerce, unindo suporte té
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bambuzitos&show_icons=true&theme=dracula" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bambuzitos&layout=compact&theme=dracula" height="180em"/>
-</div>
-
----
-
 ### 📫 Contato
 
 <div align="center">
